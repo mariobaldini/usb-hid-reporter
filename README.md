@@ -14,6 +14,7 @@ A pre-compiled version is present in the dist folder.
 ### *NIX / x86-x64 Devices
 (If running a 32bit machine, build from source)
 
+- Install the libhidapi-libusb0 library. Debian/Ubuntu based: `sudo apt-get install libhidapi-libusb0`
 - Plug the device to be inspected. Discover the VendorID/ProductID with the 'dmesg' command.
 - Copy the file `usb-hid-reporter/dist/x64/usb-hid-reporter.x64.bin` to some working dir. 
 
