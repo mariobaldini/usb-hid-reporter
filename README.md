@@ -128,29 +128,8 @@ Known issue: it's expected a segmentation fault in the Openwrt version if no dev
 - Try some static linking to dismiss the installation of extra libs (usefull for openwrt devices with storage shortage)
 
 ## References
-
+```
 - Based upon the code of: http://www.signal11.us/oss/hidapi/
 - https://github.com/torvalds/linux/blob/master/samples/hidraw/hid-example.c
 - http://wiki.openwrt.org/doc/howto/obtain.firmware.sdk
-
-
-## LICENSE
-
-You are free to use this tool as you wish. Please attribute credit if you do so. 
-
 ```
-/*
- * ----------------------------------------------------------------------------  
- * "THE BEER-WARE LICENSE":   
- * [http://en.wikipedia.org/wiki/Beerware]  
- * <mario.baldini@ieee.org> wrote this file. As long as you retain this notice you  
- * can do whatever you want with this stuff. If we meet some day, and you think  
- * this stuff is worth it, you can buy me a beer in return. -- Mario Baldini  
- * ----------------------------------------------------------------------------  
- */  
-```
-
-
-
-
-
